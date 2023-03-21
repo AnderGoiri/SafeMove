@@ -1,1 +1,3 @@
-skdsdjfjdkfjd
+public class Application {
+
+}
